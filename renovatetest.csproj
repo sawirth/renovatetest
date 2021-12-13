@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Chabis.Messaging.Abstractions" Version="18.0.0" />
+      <PackageReference Include="Chabis.Messaging.Abstractions" Version="18.1.2" />
     </ItemGroup>
 
 </Project>
