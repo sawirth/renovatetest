@@ -8,8 +8,8 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="Bogus" Version="33.0.1" />
       <PackageReference Include="Chabis.Messaging.Abstractions" Version="18.0.0" />
-      <PackageReference Include="Chabis.Messaging.AzureServiceBus" Version="18.0.0" />
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
     </ItemGroup>
 
