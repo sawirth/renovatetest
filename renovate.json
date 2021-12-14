@@ -1,7 +1,7 @@
 {
+  "ignoreUnstable": false,
   "packageRules": [
     {
-      "ignoreUnstable": false,
       "packagePatterns": [
         "*"
       ],
